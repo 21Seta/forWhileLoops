@@ -62,7 +62,7 @@ public class chanaweri1 {
                 i++;
                 continue;
             }
-            System.out.println(i); // როდესაც უნაშთოდ იყოფა სამზე გაჩერდეს ციკლი
+            System.out.println(i); // როდესაც უნაშთოდ იყოფა სამზე გაგრძელდეს ციკლი
             i ++ ;
         }
 
